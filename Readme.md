@@ -8,4 +8,4 @@
 
 ### Circuit:
 
-![Circuit Scheme](https://github.com/alife1029/MusicPlayer/Circuit.png "Circuit Scheme")
+![Circuit Scheme](https://github.com/alife1029/MusicPlayer/blob/master/Circuit.png "Circuit Scheme")
